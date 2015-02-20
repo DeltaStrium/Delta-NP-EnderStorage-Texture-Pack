@@ -1,0 +1,9 @@
+Change Log:
+v1.3
+Updated to support 1.7.10 MC
+v1.2
+Added the missing colours to the dial
+V1.1
+Updated to support minecraft 1.6.4 MC
+v1.0
+Initial Release
