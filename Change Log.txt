@@ -1,6 +1,7 @@
 Change Log:
 v1.3
 Updated to support 1.7.10 MC
+Changed endertank Texture
 v1.2
 Added the missing colours to the dial
 V1.1
